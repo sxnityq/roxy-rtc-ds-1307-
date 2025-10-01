@@ -3,4 +3,4 @@
 
 I have created a ds1307 rtc driver. No specific purpose. Just to enhance my linux kernel internal knowledeges.
 
-![banana-brain](readme/banana.jpg)
+![banana-brain](media/attention.jpg)
